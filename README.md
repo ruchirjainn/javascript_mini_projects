@@ -1,5 +1,8 @@
 I, Ruchir Jain, am an dedicated engineering student currently studying at Swami Vivekananda College of Engineering. I am passionate about learning, particularly in the areas of computer science and software development. With a strong drive for personal growth and a commitment to academic excellence, I am confident in my ability to contribute to the field of engineering and achieve my career aspirations.
 
+All Hosted Projects:
+https://javascript-30-miniproject.netlify.app/
+
 We would like to acknowledge and express our gratitude to "GreatStack", a YouTuber whose tutorials have been invaluable in the creation of this collection. Their content has inspired and influenced the implementation of these mini projects. Be sure to check out their channel for more JavaScript resources and tutorials.
 
 This Git repository contains the source code and related files for a JavaScript Mini Projects. 
