@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root{
+    --primary-color:#edf2fc;
+    --secondary-color:#212121;
+}
+
+.dark-theme{
+    --primary-color:#000106;
+    --secondary-color:#white;
+}
+
+body{
+    background: var(--secondary-color);
+}
+
+.container {
+    width: 100px;
+    height: 100px;
+    background: var(--primary-color);
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 300px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#icon{
+    cursor: pointer;
+    width: 50px;
+    padding: 20px;
+}
